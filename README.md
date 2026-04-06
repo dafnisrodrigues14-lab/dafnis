@@ -1,19 +1,19 @@
-# 🧮 Calculadora Simples em Python
+#  Calculadora Simples em Python
 
 Este é um projeto básico de uma calculadora desenvolvida em Python. Ele permite realizar operações matemáticas simples diretamente no terminal.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
 
-## 💻 Tecnologias usadas
+##  Tecnologias usadas
 
 - Python 3
 
-## ▶️ Como executar
+##  Como executar
 
 1. Clone o repositório:
 ```bash
